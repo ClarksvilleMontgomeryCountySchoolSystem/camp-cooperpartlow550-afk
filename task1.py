@@ -1,9 +1,9 @@
 def main():
     #Collect Input for each
     #Variable: first Prompt: Child's First Name:
-    
+    first = input("Child's First Name: ")
     #Variable: last Prompt: Child's Last Name:
-    
+    last = input("Child's Last Name: ")
     print(f"Camper's Name: {first} {last}")
 
     #Variable: birth Prompt: In what year was {first} {last} born:
